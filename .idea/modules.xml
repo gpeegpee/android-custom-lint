@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-custom-lint.iml" filepath="$PROJECT_DIR$/.idea/modules/android-custom-lint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checks/android-custom-lint.checks.iml" filepath="$PROJECT_DIR$/.idea/modules/checks/android-custom-lint.checks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/android-custom-lint.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/android-custom-lint.library.iml" />
+    </modules>
+  </component>
+</project>
